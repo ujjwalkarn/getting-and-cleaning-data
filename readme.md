@@ -13,8 +13,8 @@ This repo includes the following files:
 4. codebook.pdf- explains all the variables ithe tidy data sets 
 5. run_analysis.R- script for modifying the data
 
-This readme is a description of the run_analysis.R script in this repo.
-=======================================================================
+Description of the run_analysis.R script in this repo.
+======================================================
 The steps followed in run_analysis.R are described below:
 
 1. The files that have been read into R are: X_test, y_test, subject_test, X_train, y_train, subject_train, features.
