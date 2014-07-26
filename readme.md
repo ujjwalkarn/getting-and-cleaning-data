@@ -1,4 +1,4 @@
-"This repo contains the analysis of the Human Activity Recognition Using Smartphones" Dataset
+This repo contains the analysis of the "Human Activity Recognition Using Smartphones" Dataset
 =============================================================================================
 The steps followed for collecteing this dataset are described below:
 
